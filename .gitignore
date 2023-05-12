@@ -1,3 +1,9 @@
+*~
+#*
+CoqMakefile
+CoqMakefile.conf
+.CoqMakefile.d
+
 .*.aux
 .*.d
 *.a
